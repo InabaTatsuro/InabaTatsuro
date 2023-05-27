@@ -7,10 +7,10 @@
 
 ### Top Repositories
 <a href="https://github.com/InabaTatsuro/MultiTool-CoT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InabaTatsuro&repo=MultiTool-CoT&theme=vue" />
 </a>
 <a href="https://github.com/InabaTatsuro/InabaTatsuro.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=InabaTatsuro.github.io&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InabaTatsuro&repo=InabaTatsuro.github.io&theme=vue" />
 </a>
 
 <br />
